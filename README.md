@@ -1,2 +1,2 @@
-# Olá pessoa, seja bem-vindo ao meu GitHub
+# Olá pessoa, seja bem-vindo(a) ao meu GitHub
 
