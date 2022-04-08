@@ -2,7 +2,7 @@ PT / EN Available
 
 ## Olá pessoa! Seja bem-vindo(a) ao meu perfil do GitHub
 
-	Sou o João Lira, e me interesso muito por desenvolvimento de games e automações de testes.
+	Sou o João Lira, gosto de desenvolver jogos e áudio, programação em python, e automatizar algumas tarefas por ai.
 
 #### Meu perfil no LinkedIn
 
@@ -26,7 +26,7 @@ PT / EN Available
 
 ## Hello there! Welcome to my GitHub profile
 
-	I'm Joao Lira, and I'm interested in game development and test automation.
+	I'm Joao Lira. I like to develop games and audio, code in python, and automate some stuff..
 	
 #### My LinkedIn profile
 
