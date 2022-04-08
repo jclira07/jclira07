@@ -36,7 +36,7 @@ PT / EN Available
 	</a>
 </p>
 
-#### Technologies
+#### Tech
 
 <p align="left">
 	<img src="https://github.com/jclira07/jclira07/blob/main/icon-python.png" width="32">
